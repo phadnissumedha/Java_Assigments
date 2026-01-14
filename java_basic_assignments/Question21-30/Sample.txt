@@ -1,0 +1,13 @@
+General Guidelines
+
+Code must be properly indented as per the indentation format shared with you.
+Code must use meaningful variable names.
+Code must compile without any errors/warnings.
+For validation, use regular expressions.
+Code must produce output strictly in the expected format wherever such format is provided.
+Unless and otherwise specified, always print floating point numbers with two decimal points.
+Add appropriate code for exception handling and print a meaningful exception message in
+case of an exception.
+Code for all exercises must be pushed within the “basic-java” folder under the branch name
+allocated to you on a Git repository. Branch name must be Participant’s Merce username
+(e.g. “indulekhas” for Indulekha Singh)
