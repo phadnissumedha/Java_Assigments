@@ -26,8 +26,11 @@ public class HrApplication implements CommandLineRunner {
         employee.setAge(28);
         employee.setDateOfJoining("2024-06-25");
 
-        employeeService.saveEmployee(employee);
-
-        System.out.println("Demo employee saved successfully!");
+        try {
+            employeeService.saveEmployee(employee);
+            System.out.println("Demo employee saved successfully!");
+        } catch (IllegalArgumentException e) {
+            System.out.println(e.getMessage());
+        }
     }
 }
