@@ -1,7 +1,6 @@
-com/hrapplication/repository/EmployeeRepository.class
-com/hrapplication/dto/ApiResponse.class
-com/hrapplication/service/EmployeeService.class
-com/hrapplication/dto/EmployeeRequest.class
-com/hrapplication/HrApplication.class
+com/hrapplication/MyHrApplication.class
+com/hrapplication/service/MyHrEmployeeServiceImpl.class
+com/hrapplication/controller/MyHrEmployeeController.class
+com/hrapplication/service/MyHrEmployeeService.class
 com/hrapplication/entity/Employee.class
-com/hrapplication/controller/EmployeeController.class
+com/hrapplication/repository/MyHrEmployeeRepository.class

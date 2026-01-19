@@ -1,7 +1,6 @@
-/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/repository/EmployeeRepository.java
-/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/service/EmployeeService.java
-/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/dto/ApiResponse.java
-/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/dto/EmployeeRequest.java
-/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/controller/EmployeeController.java
+/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/MyHrApplication.java
+/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/service/MyHrEmployeeServiceImpl.java
+/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/controller/MyHrEmployeeController.java
+/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/service/MyHrEmployeeService.java
 /home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/entity/Employee.java
-/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/HrApplication.java
+/home/sumedha/Documents/Java_Assigments/java-Advance-Assignments/HrApplication/src/main/java/com/hrapplication/repository/MyHrEmployeeRepository.java

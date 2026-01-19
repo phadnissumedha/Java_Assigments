@@ -1,21 +1,49 @@
 package com.hrapplication.entity;
 
 import jakarta.persistence.*;
+import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "employees")
+@Table(name = "employee", uniqueConstraints = { @UniqueConstraint(columnNames = { "name", "age", "department" }) })
 public class Employee {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    @Column(nullable = false)
     private String name;
-    private String department;
-    private int age;
-    private String dateOfJoining;
 
-    // Getters and setters
+    @Column(nullable = false)
+    private Integer age;
+
+    @Column(nullable = false)
+    private String department;
+
+    @Column(nullable = false)
+    private String rank;
+
+    @Column(nullable = false)
+    private String supervisor;
+
+    @Column(nullable = false)
+    private LocalDateTime createdAt;
+
+    @Column(nullable = false)
+    private LocalDateTime updatedAt;
+
+    @PrePersist
+    protected void onCreate() {
+        createdAt = LocalDateTime.now();
+        updatedAt = LocalDateTime.now();
+    }
+
+    @PreUpdate
+    protected void onUpdate() {
+        updatedAt = LocalDateTime.now();
+    }
+
+    // Getters and Setters
     public Long getId() {
         return id;
     }
@@ -32,6 +60,14 @@ public class Employee {
         this.name = name;
     }
 
+    public Integer getAge() {
+        return age;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+
     public String getDepartment() {
         return department;
     }
@@ -40,19 +76,35 @@ public class Employee {
         this.department = department;
     }
 
-    public int getAge() {
-        return age;
+    public String getRank() {
+        return rank;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setRank(String rank) {
+        this.rank = rank;
     }
 
-    public String getDateOfJoining() {
-        return dateOfJoining;
+    public String getSupervisor() {
+        return supervisor;
     }
 
-    public void setDateOfJoining(String dateOfJoining) {
-        this.dateOfJoining = dateOfJoining;
+    public void setSupervisor(String supervisor) {
+        this.supervisor = supervisor;
+    }
+
+    public LocalDateTime getCreatedAt() {
+        return createdAt;
+    }
+
+    public void setCreatedAt(LocalDateTime createdAt) {
+        this.createdAt = createdAt;
+    }
+
+    public LocalDateTime getUpdatedAt() {
+        return updatedAt;
+    }
+
+    public void setUpdatedAt(LocalDateTime updatedAt) {
+        this.updatedAt = updatedAt;
     }
 }
