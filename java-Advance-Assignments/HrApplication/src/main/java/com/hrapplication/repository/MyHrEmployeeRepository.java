@@ -19,4 +19,16 @@ public interface MyHrEmployeeRepository extends JpaRepository<Employee, Long> {
     // Custom select id + name
     @Query("SELECT e.id, e.name FROM Employee e")
     List<Object[]> findAllIdAndName();
+
+    @Query("""
+                SELECT
+                    e.id,
+                    e.name,
+                    e.rank,
+                    e.department,
+                    e.supervisor
+                FROM Employee e
+                WHERE e.id = :employeeId
+            """)
+    Object[] getEmployeeDeleteDetails(@Param("employeeId") Long id);
 }

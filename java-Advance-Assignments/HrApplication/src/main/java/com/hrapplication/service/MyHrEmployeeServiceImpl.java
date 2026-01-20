@@ -5,6 +5,8 @@ import com.hrapplication.repository.MyHrEmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataIntegrityViolationException;
 import org.springframework.stereotype.Service;
+import com.hrapplication.service.MyHrEmployeeService;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.util.HashMap;
 import java.util.List;
@@ -91,4 +93,27 @@ public class MyHrEmployeeServiceImpl implements MyHrEmployeeService {
         }
         return response;
     }
+
+    @Override
+    @Transactional
+    public Map<String, Object> deleteEmployeeById(Long employeeId) {
+
+        Map<String, Object> response = new HashMap<>();
+
+        if (!repository.existsById(employeeId)) {
+            response.put("status", "error");
+            response.put("errorCode", "EMP_NOT_FOUND");
+            response.put("message", "Employee not found with id: " + employeeId);
+            return response;
+        }
+
+        repository.deleteById(employeeId);
+
+        response.put("status", "success");
+        response.put("employeeId", employeeId);
+        response.put("message", "Employee deleted successfully");
+
+        return response;
+    }
+
 }
