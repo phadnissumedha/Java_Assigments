@@ -4,6 +4,7 @@
         "getnum",
         "getnumber",
         "getoperation",
+        "JDBC",
         "mathcontroller",
         "mycalc",
         "myproperties",

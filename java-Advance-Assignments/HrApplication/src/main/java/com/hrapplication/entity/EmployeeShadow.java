@@ -4,8 +4,8 @@ import jakarta.persistence.*;
 import java.time.LocalDateTime;
 
 @Entity
-@Table(name = "employee", uniqueConstraints = { @UniqueConstraint(columnNames = { "name", "age", "department" }) })
-public class Employee {
+@Table(name = "employee_shadow")
+public class EmployeeShadow {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -20,7 +20,7 @@ public class Employee {
     @Column(nullable = false)
     private String department;
 
-    @Column(nullable = false)
+    @Column(name = "emp_rank", nullable = false)
     private String rank;
 
     @Column(nullable = false)

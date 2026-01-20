@@ -1,7 +1,9 @@
 package com.hrapplication.controller;
 
 import com.hrapplication.entity.Employee;
+import com.hrapplication.entity.EmployeeShadow;
 import com.hrapplication.service.MyHrEmployeeService;
+import com.hrapplication.service.EmployeeShadowService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -14,6 +16,9 @@ public class MyHrEmployeeController {
 
     @Autowired
     private MyHrEmployeeService employeeService;
+
+    @Autowired
+    private EmployeeShadowService employeeShadowService;
 
     // 1. Add employee
     @PostMapping("/add")
@@ -43,5 +48,17 @@ public class MyHrEmployeeController {
     @PostMapping("/update")
     public Map<String, Object> updateEmployee(@RequestBody Employee employee) {
         return employeeService.updateEmployee(employee);
+    }
+
+    // 6. Add employee to shadow table
+    @PostMapping("/shadow/add")
+    public EmployeeShadow addEmployeeShadow(@RequestBody EmployeeShadow employeeShadow) {
+        return employeeShadowService.addEmployeeShadow(employeeShadow);
+    }
+
+    // 7. List all shadow employees
+    @GetMapping("/shadow/list")
+    public List<EmployeeShadow> listEmployeeShadows() {
+        return employeeShadowService.getAllEmployeeShadows();
     }
 }
