@@ -17,8 +17,6 @@ public interface MyHrEmployeeService {
 
     Map<String, Object> updateEmployee(Employee employee);
 
-    // Map<String, Object> getEmployeeDetailsForDelete(Long employeeId);
-
     Map<String, Object> deleteEmployeeById(Long employeeId);
 
 }
