@@ -62,19 +62,6 @@ public class MyHrEmployeeController {
         return employeeShadowService.getAllEmployeeShadows();
     }
 
-    /*
-     * 8. Delete employee details
-     * 
-     * @PostMapping("/delete/details")
-     * public Map<String, Object> getEmployeeDetailsForDelete(
-     * 
-     * @RequestBody Map<String, Long> request) {
-     * 
-     * Long id = request.get("id");
-     * return employeeService.getEmployeeDetailsForDelete(id);
-     * }
-     */
-
     // DELETE employee (REST-compliant)
     @DeleteMapping("/delete/{id}")
     public Map<String, Object> deleteEmployee(@PathVariable Long id) {
