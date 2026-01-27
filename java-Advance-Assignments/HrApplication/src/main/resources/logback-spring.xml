@@ -1,18 +1,23 @@
 <configuration>
 
-    <property name="LOG_PATH" value="logs" />
+    <property name="LOG_PATH" value="${user.dir}/hrapplication/logs" />
 
     <appender name="FILE"
         class="ch.qos.logback.core.rolling.RollingFileAppender">
+
         <file>${LOG_PATH}/hr-application.log</file>
 
         <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
-            <fileNamePattern>${LOG_PATH}/hr-application.%d{yyyy-MM-dd}.log</fileNamePattern>
-            <maxHistory>7</maxHistory> <!-- keep 7 days -->
+            <fileNamePattern>
+                ${LOG_PATH}/hr-application.%d{yyyy-MM-dd}.log
+            </fileNamePattern>
+            <maxHistory>7</maxHistory>
         </rollingPolicy>
 
         <encoder>
-            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+            <pattern>
+                %d{ISO8601}|user=%X{user}|api=%X{api}|status=%X{status}|error_code=%X{error_code}|error_message=%X{error_message}|client_reqid=%X{client_reqid}|req=%X{req}%n
+            </pattern>
         </encoder>
     </appender>
 
@@ -21,4 +26,5 @@
     </root>
 
     <logger name="com.hrapplication" level="DEBUG" />
+
 </configuration>
