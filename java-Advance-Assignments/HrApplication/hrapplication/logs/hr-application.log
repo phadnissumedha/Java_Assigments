@@ -1,27 +1,114 @@
-2026-01-27 15:35:03,419|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:03,467|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:03,467|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:03,468|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:03,936|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:03,987|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,367|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,376|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,377|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,377|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,413|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,414|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,445|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,532|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,569|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,593|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,821|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:04,839|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:05,088|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:05,089|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:05,112|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:05,763|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:05,803|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:06,027|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:06,726|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:06,735|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-27 15:35:06,743|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:02,378|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:02,429|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:02,429|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:02,430|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:02,888|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:02,933|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,359|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,379|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,380|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,380|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,423|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,423|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,454|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,546|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,580|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,602|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,849|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:03,868|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:04,306|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:04,308|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:04,681|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:05,525|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:05,873|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:06,116|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:07,094|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:07,110|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:36:07,117|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,020|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,020|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,021|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,053|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,053|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,119|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,203|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:02,269|user=101|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-01-28 12:37:38,709|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:38,709|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:38,711|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:38,712|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:37:38,713|user=101|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-01-28 12:38:54,600|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:38:54,602|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:38:54,616|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:38,678|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:38,718|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:38,718|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:38,718|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,191|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,237|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,594|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,601|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,603|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,603|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,637|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,638|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,667|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,751|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,785|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:39,807|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:40,011|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:40,030|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:40,279|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:40,280|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:40,303|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:40,995|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:41,044|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:41,268|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:41,964|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:41,973|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:41,980|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,442|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,442|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,443|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,471|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,471|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,538|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,543|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:44:45,614|user=101|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-01-28 12:45:06,682|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:45:06,682|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:45:06,683|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:45:06,684|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 12:45:06,685|user=101|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-01-28 17:40:28,865|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:28,902|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:28,903|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:28,903|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,395|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,442|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,821|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,828|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,830|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,830|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,867|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,867|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,899|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:29,983|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,029|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,056|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,280|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,299|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,592|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,593|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:30,617|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:31,347|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:31,386|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:31,623|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:32,342|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:32,343|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:32,345|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:32,352|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:38,083|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:38,085|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-01-28 17:40:38,091|user=|api=|status=|error_code=|error_message=|client_reqid=|req=

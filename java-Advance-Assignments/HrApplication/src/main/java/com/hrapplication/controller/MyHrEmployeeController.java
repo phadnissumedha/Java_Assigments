@@ -4,8 +4,9 @@ import com.hrapplication.entity.Employee;
 import com.hrapplication.entity.EmployeeShadow;
 import com.hrapplication.service.MyHrEmployeeService;
 import com.hrapplication.service.EmployeeShadowService;
-
+import com.hrapplication.entity.EmployeeListResponse; //added for Q17
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -35,10 +36,31 @@ public class MyHrEmployeeController {
     }
 
     // 2. List all employees (id + name)
+    /*
+     * @GetMapping("/list")
+     * public List<Object[]> listEmployees() {
+     * logger.info("LIST Employees API called");
+     * return employeeService.listEmployees();
+     * }
+     */
+
+    // modified for Q17
     @GetMapping("/list")
-    public List<Object[]> listEmployees() {
-        logger.info("LIST Employees API called");
-        return employeeService.listEmployees();
+    public ResponseEntity<?> listEmployees(
+            @RequestParam(required = false) String type) {
+
+        logger.info("LIST Employees API called with type={}", type);
+
+        List<Object[]> employees = employeeService.listEmployees();
+
+        if ("xml".equalsIgnoreCase(type)) {
+            return ResponseEntity
+                    .ok()
+                    .header("Content-Type", "application/xml")
+                    .body(new EmployeeListResponse(employees));
+        }
+
+        return ResponseEntity.ok(employees);
     }
 
     // 3. List employees with optional filter (name)

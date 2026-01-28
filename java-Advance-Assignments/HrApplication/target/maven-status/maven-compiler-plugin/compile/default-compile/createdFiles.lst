@@ -1,3 +1,4 @@
+com/hrapplication/entity/EmployeeSummary.class
 com/hrapplication/MyHrApplication.class
 com/hrapplication/controller/MyHrEmployeeController.class
 com/hrapplication/service/MyHrEmployeeService.class
@@ -7,6 +8,7 @@ com/hrapplication/entity/Employee.class
 com/hrapplication/repository/MyHrEmployeeRepository.class
 com/hrapplication/filter/ApiLoggingFilter.class
 com/hrapplication/repository/EmployeeShadowRepo.class
+com/hrapplication/entity/EmployeeListResponse.class
 com/hrapplication/service/EmployeeShadowServiceImpl.class
 com/hrapplication/service/MyHrEmployeeServiceImpl.class
 com/hrapplication/filter/CachedBodyHttpServletRequest.class
