@@ -8,6 +8,7 @@ import com.hrapplication.entity.EmployeeListResponse; //added for Q17
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.http.HttpStatus; //Added for Q19
 
 import com.hrapplication.service.MyHrEmployeeService;
 
@@ -47,37 +48,42 @@ public class MyHrEmployeeController {
      * }
      */
 
-    // modified for Q17
+    // 3 .list for Q19 , Q17
     @GetMapping("/list")
     public ResponseEntity<?> listEmployees(
             @RequestParam(required = false) String type) {
 
         logger.info("LIST Employees API called with type={}", type);
 
-        List<Object[]> employees = employeeService.listEmployees();
+        try {
 
-        if ("xml".equalsIgnoreCase(type)) {
-            return ResponseEntity
-                    .ok()
-                    .header("Content-Type", "application/xml")
-                    .body(new EmployeeListResponse(employees));
+            if ("xml".equalsIgnoreCase(type)) {
+                List<Object[]> employees = employeeService.listEmployees();
+                return ResponseEntity
+                        .ok()
+                        .header("Content-Type", "application/xml")
+                        .body(new EmployeeListResponse(employees));
+            }
+
+            else if ("xlsx".equalsIgnoreCase(type)) {
+                return employeeService.downloadEmployeeListAsExcel();
+            }
+
+            else if ("pdf".equalsIgnoreCase(type)) {
+                return employeeService.generateEmployeePdf();
+            }
+
+            else {
+                return ResponseEntity.ok(employeeService.getAllEmployees());
+            }
+
+        } catch (Exception e) {
+
+            logger.error("Error while listing employees", e);
+
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                    .body(Map.of("error", e.getMessage()));
         }
-
-        else if ("xlsx".equalsIgnoreCase(type)) {
-            return employeeService.downloadEmployeeListAsExcel();
-        } else {
-        }
-        return ResponseEntity.ok(employeeService.listEmployees());
-
-        // return ResponseEntity.ok(employees);
-    }
-
-    // 3. List employees with optional filter (name)
-    @PostMapping("/list")
-    public List<Employee> listEmployeesFiltered(@RequestParam(required = false) String filter) {
-        logger.info("FILTER Employees API called");
-        logger.debug("Filter value: {}", filter);
-        return employeeService.listEmployeesFiltered(filter);
     }
 
     // 4. Get employee by id

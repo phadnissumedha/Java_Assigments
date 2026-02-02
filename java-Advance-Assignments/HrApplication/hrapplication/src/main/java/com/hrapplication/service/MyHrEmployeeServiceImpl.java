@@ -32,6 +32,16 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
+import com.lowagie.text.Document;
+import com.lowagie.text.pdf.PdfWriter;
+//import com.itextpdf.tool.xml.XMLWorkerHelper;
+
+import java.io.ByteArrayInputStream;
+import org.springframework.http.HttpStatus;
+
+import com.lowagie.text.Paragraph;
+import com.lowagie.text.pdf.PdfPTable;
+
 @Service
 public class MyHrEmployeeServiceImpl implements MyHrEmployeeService {
 
@@ -42,6 +52,12 @@ public class MyHrEmployeeServiceImpl implements MyHrEmployeeService {
 
     @Value("${employee.excel.prefix}")
     private String excelPrefix;
+
+    @Value("${pdf.directory}")
+    private String pdfDirectory;
+
+    @Value("${pdf.filename.prefix}")
+    private String pdfPrefix;
 
     @Autowired
     private MyHrEmployeeRepository repository;
@@ -258,6 +274,104 @@ public class MyHrEmployeeServiceImpl implements MyHrEmployeeService {
 
             return ResponseEntity.status(500).body(error);
         }
+    }
+
+    /* added for Q19 */
+    @Override
+    public ResponseEntity<?> generateEmployeePdf() {
+
+        try {
+
+            List<Employee> employees = getAllEmployees();
+
+            if (employees == null || employees.isEmpty()) {
+                return ResponseEntity.status(HttpStatus.BAD_REQUEST)
+                        .body(Map.of("error", "No employees found to generate PDF"));
+            }
+
+            File dir = new File(pdfDirectory);
+            if (!dir.exists()) {
+                dir.mkdirs();
+            }
+
+            String fileName = pdfPrefix + System.currentTimeMillis() + ".pdf";
+            String fullPath = pdfDirectory + fileName;
+
+            Document document = new Document();
+            PdfWriter.getInstance(document, new FileOutputStream(fullPath));
+
+            document.open();
+
+            document.add(new Paragraph("Employee List"));
+            document.add(new Paragraph(" "));
+
+            PdfPTable table = new PdfPTable(6);
+
+            table.addCell("ID");
+            table.addCell("Name");
+            table.addCell("Age");
+            table.addCell("Department");
+            table.addCell("Rank");
+            table.addCell("Supervisor");
+
+            for (Employee emp : employees) {
+                table.addCell(String.valueOf(emp.getId()));
+                table.addCell(emp.getName());
+                table.addCell(String.valueOf(emp.getAge()));
+                table.addCell(emp.getDepartment());
+                table.addCell(emp.getRank());
+                table.addCell(emp.getSupervisor());
+
+            }
+
+            document.add(table);
+            document.close();
+
+            File file = new File(fullPath);
+            InputStreamResource resource = new InputStreamResource(new FileInputStream(file));
+
+            return ResponseEntity.ok()
+                    .header(HttpHeaders.CONTENT_DISPOSITION,
+                            "attachment; filename=" + fileName)
+                    .contentType(MediaType.APPLICATION_PDF)
+                    .contentLength(file.length())
+                    .body(resource);
+
+        } catch (Exception e) {
+            return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR)
+                    .body(Map.of("error", "PDF generation failed: " + e.getMessage()));
+        }
+    }
+
+    @Override
+    public List<Employee> getAllEmployees() {
+        return repository.findAll();
+    }
+
+    private String buildHtml(List<Employee> employees) {
+
+        StringBuilder sb = new StringBuilder();
+
+        sb.append("<html><body>");
+        sb.append("<h2>Employee List</h2>");
+        sb.append("<table border='1' cellpadding='5'>");
+
+        sb.append("<tr>");
+        sb.append("<th>ID</th>");
+        sb.append("<th>Name</th>");
+        sb.append("</tr>");
+
+        for (Employee emp : employees) {
+            sb.append("<tr>");
+            sb.append("<td>").append(emp.getId()).append("</td>");
+            sb.append("<td>").append(emp.getName()).append("</td>");
+            sb.append("</tr>");
+        }
+
+        sb.append("</table>");
+        sb.append("</body></html>");
+
+        return sb.toString();
     }
 
 }

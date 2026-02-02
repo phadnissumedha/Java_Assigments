@@ -22,4 +22,10 @@ public interface MyHrEmployeeService {
     Map<String, Object> deleteEmployeeById(Long employeeId);
 
     ResponseEntity<?> downloadEmployeeListAsExcel();// Added for Q18
+
+    /* added for Q19 */
+    List<Employee> getAllEmployees();
+
+    ResponseEntity<?> generateEmployeePdf();
+
 }

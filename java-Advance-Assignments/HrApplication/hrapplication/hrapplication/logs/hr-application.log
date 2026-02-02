@@ -1,100 +1,395 @@
-2026-01-29 11:19:10,439|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:10,488|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:10,488|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:10,489|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:10,953|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,001|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,484|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,493|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,495|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,495|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,545|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,546|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,576|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,655|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,691|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,712|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,924|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:11,943|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:12,400|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:12,404|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:12,745|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:13,376|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:13,704|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:13,937|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:14,649|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:14,681|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:19:14,688|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:30:39,514|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:30:39,517|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 11:30:39,530|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:36,789|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:36,839|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:36,839|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:36,840|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,281|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,328|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,685|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,692|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,694|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,695|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,730|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,731|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,760|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,838|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,873|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:37,896|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:38,111|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:38,129|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:38,376|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:38,377|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:38,399|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:39,027|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:39,065|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:39,281|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:39,949|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:39,958|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:35:39,965|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,660|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,660|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,661|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,689|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,689|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,752|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,774|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,775|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,775|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,776|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:40,777|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:41,616|user=101|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:43:41,643|user=101|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
-2026-01-29 12:53:14,214|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,214|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,215|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,216|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,216|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,216|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,217|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,217|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,238|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:14,241|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
-2026-01-29 12:53:33,403|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,403|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,404|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,405|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,405|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,405|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,406|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,408|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,430|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 12:53:33,433|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
-2026-01-29 14:20:40,711|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,711|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,712|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,714|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,714|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,714|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,714|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,715|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,730|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
-2026-01-29 14:20:40,731|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 12:39:14,230|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:14,302|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:14,303|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:14,303|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:14,787|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:14,857|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,283|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,293|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,294|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,294|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,380|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,381|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,413|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,513|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,549|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,572|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,788|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:15,808|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:16,249|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:16,251|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:16,512|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:17,200|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:17,535|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:17,747|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,380|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,381|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,382|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,389|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,390|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,432|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:39:18,442|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'myHrEmployeeController' method 
+com.hrapplication.controller.MyHrEmployeeController#getEmployees(String)
+to {GET [/myhr/employee/list]}: There is already 'myHrEmployeeController' bean method
+com.hrapplication.controller.MyHrEmployeeController#listEmployees(String) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1806)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:971)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:625)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.hrapplication.MyHrApplication.main(MyHrApplication.java:10)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'myHrEmployeeController' method 
+com.hrapplication.controller.MyHrEmployeeController#getEmployees(String)
+to {GET [/myhr/employee/list]}: There is already 'myHrEmployeeController' bean method
+com.hrapplication.controller.MyHrEmployeeController#listEmployees(String) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1802)
+	... 16 common frames omitted
+2026-02-02 12:51:11,040|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,088|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,088|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,089|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,529|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,573|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,934|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,950|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,952|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,952|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,988|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:11,988|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,018|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,099|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,134|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,156|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,367|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,386|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,636|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,638|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:12,669|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:13,295|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:13,333|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:13,512|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,037|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,038|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,039|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,045|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,047|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,060|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:51:14,071|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'myHrEmployeeController' method 
+com.hrapplication.controller.MyHrEmployeeController#getEmployees(String)
+to {GET [/myhr/employee/list]}: There is already 'myHrEmployeeController' bean method
+com.hrapplication.controller.MyHrEmployeeController#listEmployees(String) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1806)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:971)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:625)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.hrapplication.MyHrApplication.main(MyHrApplication.java:10)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'myHrEmployeeController' method 
+com.hrapplication.controller.MyHrEmployeeController#getEmployees(String)
+to {GET [/myhr/employee/list]}: There is already 'myHrEmployeeController' bean method
+com.hrapplication.controller.MyHrEmployeeController#listEmployees(String) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1802)
+	... 16 common frames omitted
+2026-02-02 12:53:37,701|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:37,743|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:37,743|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:37,744|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,181|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,232|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,616|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,625|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,626|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,627|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,665|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,666|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,708|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,794|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,830|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:38,854|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:39,067|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:39,085|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:39,322|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:39,323|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:39,346|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:39,966|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,003|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,178|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,718|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,719|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,720|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,726|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,728|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,736|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:53:40,746|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Ambiguous mapping. Cannot map 'myHrEmployeeController' method 
+com.hrapplication.controller.MyHrEmployeeController#getEmployees(String)
+to {GET [/myhr/employee/list]}: There is already 'myHrEmployeeController' bean method
+com.hrapplication.controller.MyHrEmployeeController#listEmployees(String) mapped.
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1806)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:522)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:337)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:975)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:971)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:625)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at com.hrapplication.MyHrApplication.main(MyHrApplication.java:10)
+Caused by: java.lang.IllegalStateException: Ambiguous mapping. Cannot map 'myHrEmployeeController' method 
+com.hrapplication.controller.MyHrEmployeeController#getEmployees(String)
+to {GET [/myhr/employee/list]}: There is already 'myHrEmployeeController' bean method
+com.hrapplication.controller.MyHrEmployeeController#listEmployees(String) mapped.
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.validateMethodMapping(AbstractHandlerMethodMapping.java:674)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:636)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.registerHandlerMethod(AbstractHandlerMethodMapping.java:331)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:508)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.registerHandlerMethod(RequestMappingHandlerMapping.java:84)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.lambda$detectHandlerMethods$2(AbstractHandlerMethodMapping.java:298)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.detectHandlerMethods(AbstractHandlerMethodMapping.java:296)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.processCandidateBean(AbstractHandlerMethodMapping.java:265)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.initHandlerMethods(AbstractHandlerMethodMapping.java:224)
+	at org.springframework.web.servlet.handler.AbstractHandlerMethodMapping.afterPropertiesSet(AbstractHandlerMethodMapping.java:212)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping.afterPropertiesSet(RequestMappingHandlerMapping.java:239)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1802)
+	... 16 common frames omitted
+2026-02-02 12:57:19,319|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:19,358|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:19,358|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:19,358|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:19,806|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:19,850|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,205|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,221|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,223|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,223|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,259|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,260|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,290|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,371|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,407|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,429|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,643|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,662|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,900|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,901|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:20,923|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:21,580|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:21,619|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:21,802|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:22,622|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:22,680|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 12:57:22,687|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:31:25,704|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:31:25,704|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:31:25,705|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:31:25,739|user=anonymous|api=GET /myhr/employee|status=404|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:31:36,700|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:31:36,757|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:31:36,809|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:32:06,077|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:32:06,078|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:32:06,306|user=anonymous|api=GET /myhr/employee/list|status=500|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:41:11,135|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:11,136|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:11,145|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:44,537|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:44,578|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:44,578|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:44,579|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,020|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,073|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,452|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,467|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,469|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,469|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,504|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,505|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,535|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,617|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,654|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,677|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,892|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:45,909|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:46,153|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:46,154|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:46,176|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:46,801|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:46,839|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:47,015|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:47,720|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:47,730|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:47,736|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:57,156|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:57,156|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:57,157|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:57,185|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:57,239|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:41:57,458|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:49:24,731|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:24,757|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:24,757|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:24,758|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,215|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,259|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,599|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,607|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,609|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,609|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,650|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,651|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,680|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,759|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,794|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:25,815|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,025|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,043|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,287|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,288|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,310|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,949|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:26,987|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,169|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,922|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,926|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,927|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,928|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,934|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,946|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:27,961|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:32,196|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:32,198|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:49:32,203|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:50:47,707|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:50:47,709|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:50:47,744|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:54:37,494|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:54:37,496|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:54:37,510|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,078|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,113|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,113|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,114|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,569|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,618|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:35,994|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,002|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,004|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,004|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,047|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,048|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,078|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,157|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,192|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,215|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,432|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,451|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,696|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,697|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:36,719|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:37,347|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:37,385|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:37,561|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:38,277|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:38,286|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:38,292|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:50,262|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:50,262|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:50,263|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:50,294|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:50,350|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:56:50,519|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
+2026-02-02 14:57:47,888|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:57:47,896|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:57:47,925|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:03,482|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:03,525|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:03,525|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:03,525|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:03,971|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,021|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,381|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,396|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,398|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,398|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,435|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,436|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,466|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,548|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,585|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,608|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,839|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:04,859|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:05,108|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:05,109|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:05,134|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:05,780|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:05,818|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:06,010|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:06,788|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:06,798|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:06,805|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:08,557|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:08,557|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:08,558|user=|api=|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:08,588|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:08,643|user=anonymous|api=GET /myhr/employee/list|status=|error_code=|error_message=|client_reqid=|req=
+2026-02-02 14:58:08,820|user=anonymous|api=GET /myhr/employee/list|status=200|error_code=|error_message=|client_reqid=|req={"id":"14","name":"akanksha","age":25,"department":"HR","rank":"SENIOR ","supervisor":"Sumit"}
